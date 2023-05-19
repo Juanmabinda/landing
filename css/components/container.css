@@ -1,0 +1,42 @@
+.container {
+  width: 900px;
+  margin: auto;
+  text-align: right;
+  padding-top: 20px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#container-banner {
+  position: relative;
+  right: -240px;
+}
+
+#container-banner a {
+  position: relative;
+  right: 150px;
+  margin: 8px;
+  font-weight: bold;
+}
+
+#container-banner h1 {
+  font-weight: bold;
+  color: #F2F2F2;
+  margin: 8px;
+  font-size: 30px;
+  text-shadow: 2 2 3 black;
+}
+
+#container-banner p {
+  position: relative;
+  right: -220px;
+  color: #F2F2F2;
+  line-height: 1.6;
+  text-align: center;
+}
+
+
+
+
+.text-center {
+  text-align: center;
+}
