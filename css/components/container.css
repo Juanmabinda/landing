@@ -1,19 +1,16 @@
 .container {
-  width: 900px;
+  max-width: 90%;
   margin: auto;
-  text-align: right;
-  padding-top: 20px;
+  padding: 10px;
   font-family: 'Source Code Pro', monospace;
 }
 
 #container-banner {
-  position: relative;
-  right: -240px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+  padding: 0;
 }
 
 #container-banner a {
-  position: relative;
-  right: 150px;
   margin: 8px;
   font-weight: bold;
 }
@@ -23,20 +20,15 @@
   color: #F2F2F2;
   margin: 8px;
   font-size: 30px;
-  text-shadow: 2 2 3 black;
+  text-shadow: 2px 2px 3px black;
 }
 
 #container-banner p {
-  position: relative;
-  right: -220px;
-  color: #F2F2F2;
+  color: white;
   line-height: 1.6;
-  text-align: center;
 }
-
-
-
 
 .text-center {
   text-align: center;
+  font-size: 22px;
 }

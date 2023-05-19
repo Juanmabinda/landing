@@ -4,7 +4,8 @@
   background-position: center;
   height: 300px;
   margin: 0 auto;
-  padding: 60px;
+  padding: 30px;
+  text-align: left;
 }
 
 .banner h1, p {
@@ -19,6 +20,7 @@
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-weight: bold;
+  line-height: 1.6;
 }
 
 .banner p {
